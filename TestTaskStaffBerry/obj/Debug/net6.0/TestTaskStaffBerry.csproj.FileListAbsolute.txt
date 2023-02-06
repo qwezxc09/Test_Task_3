@@ -1,0 +1,15 @@
+C:\Users\vladp\source\repos\TestTaskStaffBerry\TestTaskStaffBerry\bin\Debug\net6.0\TestTaskStaffBerry.exe
+C:\Users\vladp\source\repos\TestTaskStaffBerry\TestTaskStaffBerry\bin\Debug\net6.0\TestTaskStaffBerry.deps.json
+C:\Users\vladp\source\repos\TestTaskStaffBerry\TestTaskStaffBerry\bin\Debug\net6.0\TestTaskStaffBerry.runtimeconfig.json
+C:\Users\vladp\source\repos\TestTaskStaffBerry\TestTaskStaffBerry\bin\Debug\net6.0\TestTaskStaffBerry.dll
+C:\Users\vladp\source\repos\TestTaskStaffBerry\TestTaskStaffBerry\bin\Debug\net6.0\TestTaskStaffBerry.pdb
+C:\Users\vladp\source\repos\TestTaskStaffBerry\TestTaskStaffBerry\obj\Debug\net6.0\TestTaskStaffBerry.csproj.AssemblyReference.cache
+C:\Users\vladp\source\repos\TestTaskStaffBerry\TestTaskStaffBerry\obj\Debug\net6.0\TestTaskStaffBerry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladp\source\repos\TestTaskStaffBerry\TestTaskStaffBerry\obj\Debug\net6.0\TestTaskStaffBerry.AssemblyInfoInputs.cache
+C:\Users\vladp\source\repos\TestTaskStaffBerry\TestTaskStaffBerry\obj\Debug\net6.0\TestTaskStaffBerry.AssemblyInfo.cs
+C:\Users\vladp\source\repos\TestTaskStaffBerry\TestTaskStaffBerry\obj\Debug\net6.0\TestTaskStaffBerry.csproj.CoreCompileInputs.cache
+C:\Users\vladp\source\repos\TestTaskStaffBerry\TestTaskStaffBerry\obj\Debug\net6.0\TestTaskStaffBerry.dll
+C:\Users\vladp\source\repos\TestTaskStaffBerry\TestTaskStaffBerry\obj\Debug\net6.0\refint\TestTaskStaffBerry.dll
+C:\Users\vladp\source\repos\TestTaskStaffBerry\TestTaskStaffBerry\obj\Debug\net6.0\TestTaskStaffBerry.pdb
+C:\Users\vladp\source\repos\TestTaskStaffBerry\TestTaskStaffBerry\obj\Debug\net6.0\TestTaskStaffBerry.genruntimeconfig.cache
+C:\Users\vladp\source\repos\TestTaskStaffBerry\TestTaskStaffBerry\obj\Debug\net6.0\ref\TestTaskStaffBerry.dll
